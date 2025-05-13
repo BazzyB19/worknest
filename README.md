@@ -1,4 +1,4 @@
-# Human Resource Management System (HRMS)
+#Worknest
 
 A full-scale, enterprise-grade Human Resource Management System (HRMS) built using Java, Spring Boot, and Microservices architecture. This project is designed to showcase real-world implementation of distributed services, secure communication, and cloud-native patterns suitable for production-grade deployments.
 
